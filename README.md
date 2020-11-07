@@ -9,3 +9,5 @@
     - It contains the Assignment & Solutions for Day 7 & 8 of the course.
   - Day 9-10 Folder
     - It contains the Assignment & Solutions for Day 9 & 10 of the course.
+  - Assessment Project 1
+    - It contains the Solutions for Assessment Project 1.
