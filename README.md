@@ -13,5 +13,7 @@
     - It contains the Assignment & Solutions for Day 11 & 12 of the course.
   - Day 13-14 Folder
     - It contains the Assignment & Solutions for Day 13 & 14 of the course.    
+  - Day 15-16 Folder
+    - It contains the Assignment & Solutions for Day 15 & 16 of the course.
   - Assessment Project 1
     - It contains the Solutions for Assessment Project 1.
