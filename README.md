@@ -17,3 +17,7 @@
     - It contains the Assignment & Solutions for Day 15 & 16 of the course.
   - Assessment Project 1
     - It contains the Solutions for Assessment Project 1.
+  - Project 2
+    - It contains the Solutions for Project 2.
+  - Project 3
+    - It contains the Solutions for Project 3.
