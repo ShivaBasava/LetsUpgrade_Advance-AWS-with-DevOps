@@ -25,3 +25,5 @@
     - It contains the Solutions for Project 4.
   - Project 5
     - It contains the Solutions for Project 5.    
+  - Project 6
+    - It contains the Solutions for Project 6.    
